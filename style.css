@@ -660,7 +660,7 @@ textarea::placeholder{
 
 
 
-@media (max-width: 708px) {
+@media (max-width: 508px) {
 .container{   
     left: -50%;
    	width: 50%;  	
@@ -820,7 +820,6 @@ header .btncontent{
 }
 .contact{
 				height: 100vh;
-				width: 100%;
 				background-color: ghostwhite;
 				padding: 30px;
 }
