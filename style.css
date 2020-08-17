@@ -737,7 +737,7 @@ header .btncontent{
 				margin-top: 25px;
 }
 .about{
-		 height: 600px;
+		 height: 100vh;
 	}
 	.aboutcontainer{
 				padding: 10px 20px;
@@ -751,7 +751,7 @@ header .btncontent{
 				line-height: 25px;
 }
 .skill{
-				height: 610px;
+				height: 100vh;
 }
 .skillcontainer{
 		  margin-top: -15px;
