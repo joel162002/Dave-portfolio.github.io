@@ -689,7 +689,7 @@ header .logo .span{
 				height: 150px;
 }
 .headercontent h1{
-				font-size: 50px;
+				font-size: 40px;
 				height: 100%;
 				font-weight: 600;
 }
@@ -737,7 +737,7 @@ header .btncontent{
 				margin-top: 25px;
 }
 .about{
-		 height: 100vh;
+		 height: 600px;
 	}
 	.aboutcontainer{
 				padding: 10px 20px;
@@ -751,7 +751,7 @@ header .btncontent{
 				line-height: 25px;
 }
 .skill{
-				height: 100vh;
+				height: 610px;
 }
 .skillcontainer{
 		  margin-top: -15px;
