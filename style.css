@@ -689,7 +689,7 @@ header .logo .span{
 				height: 150px;
 }
 .headercontent h1{
-				font-size: 50px;
+				font-size: 40px;
 				height: 100%;
 				font-weight: 600;
 }
@@ -745,10 +745,10 @@ header .btncontent{
 	.aboutcontainer p{
 				text-align: justify;
 				padding-top: 15px;
-				font-size: 14px;
+				font-size: 13px;
 				color: lightgray;
 				font-weight: 400;
-				line-height: 25px;
+				line-height: 20px;
 }
 .skill{
 				height: 610px;
