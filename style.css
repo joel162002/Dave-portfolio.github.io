@@ -689,7 +689,7 @@ header .logo .span{
 				height: 150px;
 }
 .headercontent h1{
-				font-size: 40px;
+				font-size: 45px;
 				height: 100%;
 				font-weight: 600;
 }
@@ -714,6 +714,9 @@ header .logo .span{
 				cursor: pointer;
 				transition: .5s ease;
 				color: lightgray;
+	display: flex;
+				text-align: center;
+				justify-content: space-between;
 }
 .anchortag a:hover{
 				color: black;
@@ -748,7 +751,7 @@ header .btncontent{
 				font-size: 13px;
 				color: lightgray;
 				font-weight: 400;
-				line-height: 20px;
+				line-height: 25px;
 }
 .skill{
 				height: 610px;
