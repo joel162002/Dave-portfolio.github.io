@@ -684,11 +684,13 @@ header{
 		  padding: 0 20px;
 }
 .headercontent{
+	
 		  width: 50%;
 				display: flex;
 				alig-items: center;
 				justify-content:center;
 				height: 150px;
+	padding: 0 20px;
 }
 .headercontent h1{
 				font-size: 50px;
