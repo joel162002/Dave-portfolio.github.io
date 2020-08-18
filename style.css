@@ -718,6 +718,7 @@ header .logo .span{
 	                        display: flex;
 				text-align: center;
 				justify-content: space-between;
+	                        align-items: center:
 }
 .anchortag a:hover{
 				color: black;
