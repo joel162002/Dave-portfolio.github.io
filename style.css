@@ -159,10 +159,11 @@ header .logo .span{
 				width: 55px;
 				background-color: dimgrey;
 				border-radius: 50%;
-				line-height: 65px;
+				line-height: 55px;
 				cursor: pointer;
 				transition: .5s ease;
 				color: lightgray;
+	                        margin: 0 auto:
 }
 .anchortag a:hover{
 				color: black;
@@ -171,6 +172,7 @@ header .logo .span{
 }
 .anchortag a i{
 				font-size: 27px;
+	                        margin: 0 auto:
 }
 header .btncontent{
 				display: block;
