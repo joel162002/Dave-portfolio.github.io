@@ -159,7 +159,7 @@ header .logo .span{
 				width: 55px;
 				background-color: dimgrey;
 				border-radius: 50%;
-				line-height: 50px;
+				line-height: 55px;
 				cursor: pointer;
 				transition: .5s ease;
 				color: lightgray;
@@ -643,7 +643,7 @@ textarea::placeholder{
 				top: 80%;
 				position: fixed;
 				border-radius: 50%;
-				line-height: 35px;
+				line-height: 50px;
 				z-index: 2000;
 				transition: 1s ease;
 				visibility: hidden;
