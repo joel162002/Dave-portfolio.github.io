@@ -191,7 +191,7 @@ header .btncontent{
 				margin-top: 25px;
 }
 .about{
-				height: 500px;
+				height: 100vh;
 				background-image: linear-gradient(rgba(15,15,15,0.4), rgba(10,10,10,0.7));
 				padding-top: 50px;
 				overflow: hidden;
@@ -278,7 +278,7 @@ section:hover img{
 				line-height: 30px;
 }
 .skill{
-				height: 560px;
+				height: 100vh;
 				width: 100%;
 				background-image: linear-gradient(rgba(10,10,10,0.7), rgba(15,15,15,0.4)), url(skilljpg.jpg);
 				background-position: center;
@@ -333,7 +333,7 @@ section:hover img{
 				text-align: center;
 }
 .work{
-				height: 550px;
+				height: 100vh;
 				width: 100%;
 			 padding: 35px;
 				background-image: linear-gradient(rgba(10,10,10,0.3), rgba(15,15,15,0.4));
