@@ -851,9 +851,9 @@ header .btncontent{
 }				
 .up{
 				background-color: black;
-				height: 50px;
-				width: 50px;
-				left: 90%;
+				height: 40px;
+				width: 40px;
+				left: 80%;
 				padding: 5px;
 				text-align: center;
 				top: 80%;
@@ -864,7 +864,7 @@ header .btncontent{
 				visibility: hidden;
 }
 .up i{
-				font-size: 25px;
+				font-size: 20px;
 	                        text-align: center;
 	                        height: 100%;
 	                        width: 100%;
