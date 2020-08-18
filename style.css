@@ -697,8 +697,6 @@ header .logo .span{
 				margin-top: 25px;
 				width: 60%;
 				display: flex;
-	                        justify-content: center;
-	                        align-items: center;
 				position: absolute;
 				top: 50%;
 				left: 50%;
@@ -711,9 +709,6 @@ header .logo .span{
 				background-color: dimgrey;
 				border-radius: 50%;
 				cursor: pointer;
-	                        display: flex;
-	                        justify-content: center;
-	                        align-items: center;
 				transition: .5s ease;
 				color: lightgray;	                 
 }
