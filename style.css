@@ -694,11 +694,12 @@ header .logo .span{
 				font-weight: 600;
 }
 .anchortag{		
-				margin: 25px auto;
+				margin-top: 25px;
 				width: 60%;
 				display: flex;
 				text-align: center;
-				justify-content: space-between;
+	                        align-items: center:
+				justify-content: center;
 				position: absolute;
 				top: 50%;
 				left: 50%;
@@ -710,12 +711,9 @@ header .logo .span{
 				width: 40px;
 				background-color: dimgrey;
 				border-radius: 50%;
-				line-height: 50px;
 				cursor: pointer;
 				transition: .5s ease;
-				color: lightgray;
-	                        margin: 0 auto;
-	                 
+				color: lightgray;	                 
 }
 .anchortag a:hover{
 				color: black;
@@ -724,8 +722,6 @@ header .logo .span{
 }
 .anchortag a i{
 				font-size: 25px;
-	                        margin: 0 auto:
-		                text-align: center;
 }
 header .btncontent{			
     cursor: pointer;
@@ -854,7 +850,7 @@ header .btncontent{
 				top: 90%;
 				position: fixed;
 				border-radius: 50%;
-				line-height: 30px;
+				line-height: 50px;
 				z-index: 2000;
 				transition: 1s ease;
 				visibility: hidden;
