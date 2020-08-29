@@ -714,7 +714,7 @@ header{
 				width: 40px;
 				background-color: dimgrey;
 				border-radius: 50%;
-				line-height: 40px;
+				line-height: 45px;
 				cursor: pointer;
 				transition: .5s ease;
 				color: lightgray;
@@ -752,7 +752,7 @@ header .btncontent{
 				font-size: 13px;
 				color: lightgray;
 				font-weight: 400;
-				line-height: 20px;
+				line-height: 25px;
 }
 .skill{
 				height: 100vh;
